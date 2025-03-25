@@ -1,2 +1,4 @@
 # k8s
-Kubernets Practice files
+Kubernets reference files
+
+Kubernets reference files to check the syntex and samples
