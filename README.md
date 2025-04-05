@@ -1,4 +1,3 @@
 # k8s
-Kubernets reference files
 
-Kubernets reference files to check the syntex and samples
+Kubernets reference files for further purpose and samples
