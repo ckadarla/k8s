@@ -1,9 +1,0 @@
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: jupyter
-  annotations:
-    desc: "Namespace for Jupyter Notebook Application"
-    proj: "Final Project K8s Course"
-    owner: "ckadarla"
-    phone: 123-456-789
