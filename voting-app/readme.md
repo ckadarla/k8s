@@ -12,9 +12,9 @@ kubectl apply -f .
 ```
 ## do port forward so that you can access from local for Voting App
 ```
-kubectl port-forward svc/vote 8080:8080 -n jupyter
+kubectl port-forward svc/vote 8080:8080 
 ```
 ## do port forward so that you can access from local for Voting Result
 ```
-kubectl port-forward svc/result 8081:8081 -n jupyter
+kubectl port-forward svc/result 8081:8081 
 ```
