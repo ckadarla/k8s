@@ -6,9 +6,9 @@ https://github.com/ckadarla/k8s.git
 cd k8s/Skooner-Dashboard
 
 ## Apply mainfest files for Skooner from folders 
-
+```
 kubectl apply -f .
-
+```
 ## Do port forwarding to the Skooner Dashboard
 
 kubectl port-forward deployment/skooner --address 0.0.0.0 8080:4654 -n kube-system
