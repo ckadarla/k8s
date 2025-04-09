@@ -1,5 +1,5 @@
 ## Clone the repository 
-https://github.com/ckadarla/k8s.git
+git clone https://github.com/ckadarla/k8s.git
 
 ## Change to the folder
 cd k8s/Jupyter-app
